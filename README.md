@@ -2,7 +2,7 @@
 Este é um projeto simples desenvolvido em **Java** para o terminal, criado para fixar conceitos fundamentais de lógica de programação, como estrutura de decisão (Switch case, If/Else) e tratamento de entrada de dados (Scanner).
 
 ## Funcionalidades
-* **Operações básicas**: Adição, Subtração,Multiplicação e Divisão;
+* **Operações básicas**: Adição, Subtração, Multiplicação e Divisão;
 * **Entrada de Dados**: Lê números decimais e o operador desejado;
 * **Tratamento de erro**:
     * Verifica se o operador digitado é válido;
